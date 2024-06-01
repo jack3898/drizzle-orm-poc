@@ -1,0 +1,14 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "migration:gen": "drizzle-kit generate",
+    "start": "tsx index.ts",
+    "studio": "drizzle-kit studio"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
